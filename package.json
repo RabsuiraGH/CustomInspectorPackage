@@ -1,0 +1,8 @@
+{
+  "name": "com.rabsuiragh.custominspector",
+  "version": "1.0.0",
+  "displayName": "Custom Inspector",
+  "description": "Some features for inspector",
+  "unity": "2020.1",
+  "dependencies": {}
+}
